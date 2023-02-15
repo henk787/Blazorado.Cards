@@ -1,4 +1,4 @@
-﻿namespace Blazorado.Cards.Domain;
+﻿namespace Blazorado.Cards.Core;
 
 public enum Suit
 {

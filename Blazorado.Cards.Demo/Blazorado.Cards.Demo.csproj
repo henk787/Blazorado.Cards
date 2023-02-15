@@ -13,7 +13,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Blazorado.Cards.CardComponents\Blazorado.Cards.CardComponents.csproj" />
-    <ProjectReference Include="..\Blazorado.Cards.Domain\Blazorado.Cards.Domain.csproj" />
   </ItemGroup>
 
 </Project>

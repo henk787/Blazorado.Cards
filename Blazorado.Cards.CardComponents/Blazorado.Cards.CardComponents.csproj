@@ -19,4 +19,8 @@
     <Folder Include="wwwroot\tek-eye\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Blazorado.Cards.Core\Blazorado.Cards.Core.csproj" />
+  </ItemGroup>
+
 </Project>

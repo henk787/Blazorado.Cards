@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Blazorado.Cards.Domain\Blazorado.Cards.Domain.csproj" />
+    <ProjectReference Include="..\Blazorado.Cards.Core\Blazorado.Cards.Core.csproj" />
   </ItemGroup>
 
 </Project>
